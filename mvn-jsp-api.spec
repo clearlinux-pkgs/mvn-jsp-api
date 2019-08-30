@@ -4,7 +4,7 @@
 #
 Name     : mvn-jsp-api
 Version  : 2.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar
 Source0  : https://repo1.maven.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar
 Source1  : https://repo1.maven.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.pom
